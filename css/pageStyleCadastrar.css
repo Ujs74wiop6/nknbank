@@ -1,0 +1,35 @@
+.title {
+    text-align: center;
+}
+
+.format {
+    margin: 5%;
+    justify-content: center;
+}
+
+.format-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar{
+    border: 20px solid #38b8a1;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 1%;
+}
+
+.forms {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.forms-in {
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 50%;
+}
